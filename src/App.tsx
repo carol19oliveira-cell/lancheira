@@ -323,7 +323,7 @@ export default function App() {
           <div className="relative mb-12 px-4 md:px-0">
             <div className="w-full max-w-[280px] sm:max-w-md md:max-w-lg relative z-10 mx-auto">
               <img 
-                src="https://i.ibb.co/QFJjbsfH/Chat-GPT-Image-4-de-mar-de-2026-11-24-30-1.png" 
+                src="https://i.ibb.co/3YFRjGL7/Chat-GPT-Image-4-de-mar-de-2026-11-24-30-1.webp" 
                 alt="Especialista" 
                 className="w-full h-auto rounded-3xl shadow-2xl"
                 referrerPolicy="no-referrer"
