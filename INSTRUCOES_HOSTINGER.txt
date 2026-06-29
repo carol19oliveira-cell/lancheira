@@ -1,0 +1,14 @@
+INSTRUÇÕES PARA HOSPEDAGEM NO HOSTINGER:
+
+🚨 CORREÇÃO PARA ERRO 404:
+Eu atualizei as configurações para usar "Caminhos Relativos". Isso resolve o erro de "Failed to load resource" que você estava vendo.
+
+OPÇÃO A: USANDO O ARQUIVO ZIP (Método Infalível)
+1. Clique no ícone de "Download" (ou no menu superior > Export) para baixar o .ZIP.
+2. Extraia o ZIP no seu computador.
+3. IMPORTANTE: Entre na pasta 'dist' que foi criada.
+4. No painel da Hostinger (Gerenciador de Arquivos), abra a 'public_html'.
+5. APAGUE tudo o que estiver lá dentro atualmente.
+6. Envie apenas o CONTEÚDO que está dentro da pasta 'dist' (arquivos index.html, .htaccess e a pasta assets) para a 'public_html'.
+
+DICA: Se os recursos ainda não carregarem, certifique-se de que o arquivo '.htaccess' está visível na pasta 'public_html'. Em alguns sistemas, arquivos que começam com ponto (.) ficam ocultos por padrão.
